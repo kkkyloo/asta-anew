@@ -1,0 +1,13 @@
+
+@media (max-width: 2000px) and (max-height: 1200px) and (min-width: 600px) and (min-height: 700px) {
+    .carousel-control-prev {
+        margin-left: 29vh !important;
+        z-index: 11;
+    }
+    
+    .carousel-control-next {
+        margin-right: 29vh !important;
+        z-index: 11;
+    }
+}
+

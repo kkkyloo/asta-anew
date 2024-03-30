@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: *
+Disallow: /old_asta/
+Disallow: /form_counter/
+
+Disallow: /old_asta/assets/backup/
+Disallow: /old_asta/assets/cache/
+Disallow: /old_asta/assets/docs/
+Disallow: /old_asta/assets/export/
+Disallow: /old_asta/assets/import/
+Disallow: /old_asta/assets/modules/
+Disallow: /old_asta/assets/plugins/
+Disallow: /old_asta/assets/snippets/
+Disallow: /old_asta/assets/packages/ 
+Disallow: /old_asta/assets/tvs/
+Disallow: /old_asta/install/
+
+
+Sitemap: https://www.asta-auto.ru/sitemap.xml
+
+Host: https://www.asta-auto.ru/
