@@ -17,6 +17,12 @@ body {
     margin-right: 0.5vw !important;
 }
 
+.logo-img {
+    height: 1.9vw !important;
+    width: auto !important;
+    margin-top: -2% !important;
+}
+
 .no_select {
     pointer-events: none;
     -moz-user-select: none;
@@ -212,6 +218,11 @@ body {
 .opis_comp {
     font-size: 2vw !important;
 }
+.opis{
+    font-size: 1.1vw !important;
+
+}
+
 
 .footer {
     font-size: 0.9vw;
@@ -634,21 +645,25 @@ body {
         padding-bottom: 0vh !important;
         top: -4.3vw !important;
     }
-    .doos2{
-        padding-left: 16vw !important; 
+
+    .doos2 {
+        padding-left: 16vw !important;
         padding-right: 16vw !important;
         margin-top: -21vh !important;
     }
-    .service_img22{
-        padding-top: 3vh !important; 
-        padding-bottom: 3vh !important;    
+
+    .service_img22 {
+        padding-top: 3vh !important;
+        padding-bottom: 3vh !important;
     }
-    .img_service2{
+
+    .img_service2 {
         height: 80vh !important;
         margin-top: 6vw !important;
 
     }
-    .service_text3{
+
+    .service_text3 {
         margin-top: -4vw !important;
     }
 }
